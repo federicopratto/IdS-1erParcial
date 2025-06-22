@@ -1,4 +1,4 @@
-# IdS-1erParcial
+# Ingenieria de Software - 1er Parcial - 1C2025
 
 Hay 3 tests que no pasan (25, 32 y 34) pero segun lo que pude ver, esto no es debido a un error de implementación. Sino a que estos tests esperan recibir la dirección en que pateo el Delantero en lugar de la dirección a donde fue la pelota.
 
